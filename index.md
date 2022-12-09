@@ -2,5 +2,5 @@
 
 Please see the following:
 
-- [Red Panda](/red-panda)
+- [Red Panda](/red-panda/walkthrough)
 
