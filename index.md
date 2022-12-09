@@ -2,5 +2,5 @@
 
 Please see the following:
 
-- [Red Panda](/red-panda/walkthrough)
+- [Red Panda](https://timboinspace.github.io/ctf-walkthrough/red-panda/walkthrough)
 
